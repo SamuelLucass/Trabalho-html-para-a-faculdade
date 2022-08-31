@@ -1,1 +1,1 @@
-Trabalho simples do terceiro semestre da minha faculdade de Engenharia de Software, com elementos graficos e textos.
+Trabalho simples do terceiro bimestre da minha faculdade de Engenharia de Software, com elementos graficos e textos.
