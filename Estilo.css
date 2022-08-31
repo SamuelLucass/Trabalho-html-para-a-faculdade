@@ -1,0 +1,30 @@
+/* Cabeçalho do site */
+h1{
+    font-size: 40px;
+    text-shadow: 0 0 1px black;
+}
+/*Frase do Paulo Freire propriamente dita */
+p {
+    color: #00E000;
+    font-size: 30px;
+    text-shadow: 0 0 1px black;
+}
+/* Primeiro Span que delimita "saber maior" e altera a sua cor e o seu tamanho */
+span1{
+    color: blue;
+    font-size: 40px;
+}
+/* Segundo Span que delimita "saber menor" e altera a sua cor e o seu tamanho */
+span2{
+    color: red;
+    font-size: 40px;
+}
+/* Citação do autor da frase em questão */
+p2{
+    font-size: 30px;
+    text-shadow: 0 0 2px black;
+}
+img{
+    border-radius: 100px;
+}
+/* Todos os elementos do site apresenta um leve sombreamento nas letras apenas por questôes estéticas */
